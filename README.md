@@ -2,10 +2,7 @@
 
 ## Slides
 
-<embed src="slides.pdf">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="slides.pdf">Download PDF</a>.</p>
-</embed>
-
+[![](slides.png)](slides.pdf)
 
 ## Demos
 
